@@ -10,4 +10,4 @@ Big Project Showcase: A comprehensive web project that consolidates my learning,
 
 Fellow Learners: Aspiring web developers can draw inspiration from my projects and code, using them as a valuable resource for their own learning journeys. Tech Enthusiasts: Those passionate about web technologies can explore my repository to witness the application of HTML, CSS, and JavaScript in action. Join me in exploring the art and science of web development. Let's learn and grow together as we navigate the ever-evolving landscape of the web. Feel free to explore the code, experiment, and use these projects to fuel your own web development aspirations."
 
-Feel free to adjust and personalize the description to align with your unique perspective and style. Happy coding and sharing on GitHub!
+Feel free to adjust and personalize the description to align with your unique perspective and style. Happy coding and sharing on GitHub
